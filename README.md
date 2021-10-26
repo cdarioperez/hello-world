@@ -1,7 +1,7 @@
 # hello-world
 crear un respository
 
-HOla
+Hola
 Me llamo Dario
 y este es un  texto de prueba
 !!
